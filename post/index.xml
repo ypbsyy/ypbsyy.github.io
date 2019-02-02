@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 我是yaopeng</title>
-    <link>http://yaopeng.github.io/post/</link>
+    <link>http://ypbsyy.github.io/post/</link>
     <description>Recent content in Posts on 我是yaopeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Feb 2019 17:19:01 +0800</lastBuildDate>
     
-	<atom:link href="http://yaopeng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ypbsyy.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://yaopeng.github.io/post/first/</link>
+      <link>http://ypbsyy.github.io/post/first/</link>
       <pubDate>Fri, 01 Feb 2019 17:19:01 +0800</pubDate>
       
-      <guid>http://yaopeng.github.io/post/first/</guid>
+      <guid>http://ypbsyy.github.io/post/first/</guid>
       <description> Hello Hugo  aaa bbb ccc  </description>
     </item>
     
