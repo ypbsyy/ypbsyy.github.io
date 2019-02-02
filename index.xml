@@ -17,7 +17,7 @@
       <pubDate>Fri, 01 Feb 2019 17:19:01 +0800</pubDate>
       
       <guid>https://ypbsyy.github.io/post/first/</guid>
-      <description> Hello Hugo  aaa bbb ccc  </description>
+      <description> Hello Hugo  aaa bbb ccc  graph LR A --- B B--C[fa:fa-ban forbidden] B--D(fa:fa-spinner);  </description>
     </item>
     
     <item>
@@ -27,24 +27,6 @@
       
       <guid>https://ypbsyy.github.io/post/second/</guid>
       <description> 大家好 bbb ccc  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://ypbsyy.github.io/about/</link>
-      <pubDate>Fri, 01 Feb 2019 17:18:42 +0800</pubDate>
-      
-      <guid>https://ypbsyy.github.io/about/</guid>
-      <description>1.i am about</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://ypbsyy.github.io/welcome/</link>
-      <pubDate>Fri, 01 Feb 2019 17:18:42 +0800</pubDate>
-      
-      <guid>https://ypbsyy.github.io/welcome/</guid>
-      <description>1.i am about</description>
     </item>
     
   </channel>

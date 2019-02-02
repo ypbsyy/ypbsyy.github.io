@@ -17,7 +17,7 @@
       <pubDate>Fri, 01 Feb 2019 17:19:01 +0800</pubDate>
       
       <guid>https://ypbsyy.github.io/post/first/</guid>
-      <description> Hello Hugo  aaa bbb ccc  </description>
+      <description> Hello Hugo  aaa bbb ccc  graph LR A --- B B--C[fa:fa-ban forbidden] B--D(fa:fa-spinner);  </description>
     </item>
     
     <item>
