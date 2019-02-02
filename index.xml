@@ -6,9 +6,37 @@
     <description>Recent content on 我是yaopeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 01 Feb 2019 17:19:01 +0800</lastBuildDate>
     
 	<atom:link href="http://yaopeng.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First</title>
+      <link>http://yaopeng.github.io/post/first/</link>
+      <pubDate>Fri, 01 Feb 2019 17:19:01 +0800</pubDate>
+      
+      <guid>http://yaopeng.github.io/post/first/</guid>
+      <description> Hello Hugo  aaa bbb ccc  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://yaopeng.github.io/about/</link>
+      <pubDate>Fri, 01 Feb 2019 17:18:42 +0800</pubDate>
+      
+      <guid>http://yaopeng.github.io/about/</guid>
+      <description>1.i am about</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://yaopeng.github.io/welcome/</link>
+      <pubDate>Fri, 01 Feb 2019 17:18:42 +0800</pubDate>
+      
+      <guid>http://yaopeng.github.io/welcome/</guid>
+      <description>1.i am about</description>
+    </item>
     
   </channel>
 </rss>
